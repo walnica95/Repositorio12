@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git https://github.com/walnica95/Repositorio12```
 
-```bash $ cd Sdomin```
+```bash $ cd Repositorio12```
 
 ```bash $ pip3 install -r requirements.txt```
 
